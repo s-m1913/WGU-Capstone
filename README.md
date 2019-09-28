@@ -1,2 +1,2 @@
 # WGU-Capstone
-This project is a dispatch and inventory conrol app designed in android studio. The mobile app communicated with a web server to store and retrieve data.
+This is my capstone for WGU. This project is a dispatch and inventory control mobile app designed in android studio. The app communicated with a web server via a php service to store and retrieve data.
